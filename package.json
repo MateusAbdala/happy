@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "leaflet": "^1.7.1",
-    "next": "9.5.5",
+    "next": "9.5.2",
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "react-icons": "^3.11.0",
